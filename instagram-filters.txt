@@ -1,4 +1,4 @@
 ! Title: Instagram DM Filter
 ! Description: Hides images and older messages in Instagram DMs, keeping only the latest text visible.
-instagram.com##._a9zr { display: none !important; } /* Hides images in DMs */
-instagram.com##._a9zv:not(:last-child) { display: none !important; } /* Hides all but last text message */
+instagram.com##._a9_1 { display: none !important; } /* Hides images in DMs */
+instagram.com##._a9_0:not(:last-child) { display: none !important; } /* Hides all but last text message */
